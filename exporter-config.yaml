@@ -1,8 +1,0 @@
-queries:
-- jvmRuntime:
-    key: name
-    values: [heapFreeCurrent, heapSizeCurrent]
-- JDBCConnectionPoolRuntime:
-    key: name
-    values: [activeConnectionsCurrentCount, waitingForConnectionCurrentCount]
-
