@@ -1,6 +1,6 @@
 # WebLogic-on-Kubernetes Modernization Project
 
-## Executive Summary
+## Summary
 This project demonstrates the end-to-end containerization and modernization of a Java application. It transitions a legacy WebLogic-based middleware stack to a cloud-native Kubernetes environment, utilizing the **Oracle WebLogic Kubernetes Operator** for automated lifecycle management and **WebLogic Deploy Tooling (WDT)** for declarative configuration.
 
 ## Technical Architecture
